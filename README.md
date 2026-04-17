@@ -8,7 +8,7 @@
 The Monetary Policy Statement Database (MPSD) is a comprehensive collection of central bank communications designed for research on global financial conditions and monetary policy transmission. It provides a standardized, machine-readable dataset of policy statements from major central banks worldwide.
 
 * **Version:** v0.1 (Beta Release)
-* **Date:** April 2026
+* **Date:** March 2026
 * **Status:** Preliminary release. Future updates may modify structure and content.
 
 ---
