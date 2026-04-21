@@ -62,6 +62,7 @@ The database is actively maintained to ensure it remains a relevant tool for the
 If you use this database or the associated methodology in your research, please cite the following research paper:
 
 > Baird, C., Benchimol, J., Vyshnevska, V., Sohn, W., & Vyshnevskyi, I. (2026). The Monetary Policy Statement Database. In *Data Science in Central Banking*, IFC Bulletin No. 67, Chapter 14. Bank for International Settlements.
+
 > @incollection{BairdBenchimolVyshnevskaSohnVyshnevskyi2026a, author={Baird, Cory and Benchimol, Jonathan and Vyshnevska, Vira and Sohn, Wook and Vyshnevskyi, Iegor}, editor={{Bank for International Settlements}}, title={{The Monetary Policy Statement Database}}, booktitle={Data Science in Central Banking}, publisher={Bank for International Settlements}, year={2026}, volume={67}, series={IFC Bulletins chapters}}
 
 Detailed documentation and technical specifications can be found in the [BIS IFC Bulletin No 67](https://www.bis.org/ifc/publ/ifcb67_14.pdf).
