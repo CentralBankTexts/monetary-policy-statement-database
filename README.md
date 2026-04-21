@@ -33,6 +33,8 @@ The MPSD is a **semi-public resource**. This is a beta (early access) release; t
 2. **Provide GitHub Username:** Ensure your GitHub handle is included correctly in the form.
 3. **Wait for Authorization:** Once your request is processed, your GitHub account will be granted access to this repository.
 
+Users may be contacted regarding updates, corrections, and related research outputs.
+
 > **Note:** Access is granted for academic research purposes only.
 
 ## Database Features
